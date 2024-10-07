@@ -21,7 +21,7 @@ Speed: Time taken to process each image.
 Resource Usage: CPU, Memory, and (for EasyOCR) GPU consumption during the OCR process.
 Ease of Use: How easy it is to set up, integrate, and use each OCR model.
 
-3# Installation
+## Installation
 To run the notebooks, you need to set up the environment for both OCR models. Below are the instructions for installing both EasyOCR and Tesseract.
 
 ### EasyOCR Installation
@@ -69,7 +69,7 @@ The cases are:
 6. low contrast text image
 7. real photgraphed document 
 
-Dependencies
+## Dependencies
 The key dependencies for the project are:
 
 - easyocr
